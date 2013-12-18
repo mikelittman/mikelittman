@@ -1,6 +1,6 @@
 set({
-  percent: 50,
+  percent: 54,
   pages: 4,
-  words: 1262,
-  letters: 6658
+  words: 1351,
+  letters: 7156
   })
